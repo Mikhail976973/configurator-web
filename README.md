@@ -215,3 +215,4 @@ Compress-Archive -Path scorm-package\* -DestinationPath configurator-web-scorm20
 
 ⚠️ Не заливайте такой архив в LMS: PowerShell пишет в записи обратные слэши,
 и импорт на Linux падает.
+
